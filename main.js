@@ -1,8 +1,13 @@
 function tocaSomPom(){
     document.querySelector('#som_tecla_pom').play('');
 }
-document.querySelector('.tecla_pom')
+document.querySelectorAll('.tecla_pom')
 
 
+listaDeTeclas[0].onclick = tocaSomPom;
 
-document.querySelect('.tecla_pom').onclick= tocaSomPom ();
+while(){
+
+}
+listaDeTeclas[2].onclick = tocaSomTim;
+listaDeTeclas[3].onclick = tocaSomPuff;
