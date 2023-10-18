@@ -6,8 +6,8 @@ document.querySelectorAll('.tecla_pom')
 
 listaDeTeclas[0].onclick = tocaSomPom;
 
-while(){
+while(contador < 9){
+listadeteclas[0].onclick = tocaSomPom;
 
-}
-listaDeTeclas[2].onclick = tocaSomTim;
-listaDeTeclas[3].onclick = tocaSomPuff;
+};
+
